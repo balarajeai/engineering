@@ -19,6 +19,8 @@ Security is a release gate when applicable, not a cleanup phase.
 - Use [../skills/security-review/SKILL.md](../skills/security-review/SKILL.md) and [../skills/threat-model/SKILL.md](../skills/threat-model/SKILL.md).
 - Record the review in [../templates/security-review.md](../templates/security-review.md).
 
+When writing remediation code, comply with [../policies/CODE_QUALITY.md](../policies/CODE_QUALITY.md).
+
 # Required Skills
 
 - OWASP Top 10

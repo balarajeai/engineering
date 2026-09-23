@@ -21,6 +21,8 @@ The Backend Engineer owns implementation quality for APIs, domain logic, persist
 - Produce a structured handoff with evidence.
 - Use [../skills/feature-development/SKILL.md](../skills/feature-development/SKILL.md) or [../skills/db-migration/SKILL.md](../skills/db-migration/SKILL.md) when applicable.
 
+All code must comply with [../policies/CODE_QUALITY.md](../policies/CODE_QUALITY.md).
+
 # Required Skills
 
 ## Languages

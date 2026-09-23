@@ -21,6 +21,8 @@ The Architect owns architecture, technical specifications, service boundaries, i
 - Review HIGH and CRITICAL design changes when required.
 - Reject unnecessary service fragmentation.
 
+When writing implementation or reference code, comply with [../policies/CODE_QUALITY.md](../policies/CODE_QUALITY.md).
+
 # Required Skills
 
 - System architecture
