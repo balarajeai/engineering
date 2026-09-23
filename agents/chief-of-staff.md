@@ -16,7 +16,7 @@ The Chief of Staff owns WHO handles work and WHEN work moves. The Chief of Staff
 - Classify or confirm risk level using [../policies/AI_AGENT_POLICY.md](../policies/AI_AGENT_POLICY.md).
 - Determine required workflow gates from risk, security triggers, and [../policies/DEFINITION_OF_DONE.md](../policies/DEFINITION_OF_DONE.md).
 - Route architecture questions to the Architect.
-- Coordinate Backend and Frontend implementation, including parallel work when contracts allow it.
+- Coordinate Backend, Agent Engineer, and Frontend implementation, including parallel work when contracts allow it.
 - Track blockers, dependencies, QA status, security status, and review status.
 - Return work to the correct earlier stage when a gate fails.
 - Report release readiness to the human Product Owner.
