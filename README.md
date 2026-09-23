@@ -89,6 +89,7 @@ No AI agent owns the entire lifecycle.
 | [Chief of Staff](agents/chief-of-staff.md) | WHO works, WHEN work moves, coordination, gates, release-readiness reporting |
 | [Architect](agents/architect.md) | HOW the system is designed |
 | [Backend Engineer](agents/backend-engineer.md) | Server-side implementation within approved architecture |
+| [Agent Engineer](agents/agent-engineer.md) | Customer-side/edge agent implementation within approved architecture |
 | [Frontend Engineer](agents/frontend-engineer.md) | User-facing implementation within approved architecture |
 | [QA Engineer](agents/qa-engineer.md) | Independent verification of behavior |
 | [Security Engineer](agents/security-engineer.md) | Independent security evaluation |

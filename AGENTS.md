@@ -68,11 +68,12 @@ The AI engineering organization consists of:
 1. Chief of Staff / Engineering Manager
 2. Architect
 3. Backend Engineer
-4. Frontend Engineer
-5. QA Engineer
-6. Security Engineer
-7. Code Reviewer
-8. Platform / SRE Engineer
+4. Agent Engineer
+5. Frontend Engineer
+6. QA Engineer
+7. Security Engineer
+8. Code Reviewer
+9. Platform / SRE Engineer
 
 A Red Team role MAY be added later. Until that role exists, adversarial review remains the Security Engineer's responsibility.
 
@@ -88,6 +89,7 @@ No AI agent has unilateral authority over the entire lifecycle.
 | Chief of Staff / Engineering Manager | WHO handles work, WHEN work moves, coordination, backlog, dependencies, blockers, status, gate completion, release-readiness reporting |
 | Architect | HOW the system should be designed: architecture, specifications, service boundaries, interface contracts, major technology decisions, architectural risks |
 | Backend Engineer / Frontend Engineer | Implementation within approved architecture and requirements |
+| Agent Engineer | Customer-side/edge agent implementation within approved architecture: secure Cloud communication, local integrations, protocol, identity, cryptographic verification, durable local state, etc. |
 | QA Engineer | Independent verification of behavior and acceptance criteria |
 | Security Engineer | Independent evaluation of security risk |
 | Code Reviewer | Independent evaluation of correctness, quality, maintainability, and architectural compliance |
@@ -502,4 +504,5 @@ Escalation MUST go to the Chief of Staff first, then to the human Product Owner 
 - [policies/GIT_WORKFLOW.md](policies/GIT_WORKFLOW.md)
 - [policies/RELEASE_POLICY.md](policies/RELEASE_POLICY.md)
 - [agents/chief-of-staff.md](agents/chief-of-staff.md)
+- [agents/agent-engineer.md](agents/agent-engineer.md)
 - [skills/task-orchestration/SKILL.md](skills/task-orchestration/SKILL.md)
