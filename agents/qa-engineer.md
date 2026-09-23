@@ -21,6 +21,8 @@ QA reports evidence. QA does not accept intent, confidence, or implementer claim
 - Return the work when criteria are unmet or evidence is missing.
 - Use [../skills/qa-validation/SKILL.md](../skills/qa-validation/SKILL.md).
 
+When writing test or automation code, comply with [../policies/CODE_QUALITY.md](../policies/CODE_QUALITY.md).
+
 # Required Skills
 
 - Test strategy
