@@ -22,6 +22,8 @@ Platform / SRE prepares production deployment. Human approval is required before
 - Respond to operational incidents with evidence preservation.
 - Use [../skills/release/SKILL.md](../skills/release/SKILL.md) and [../policies/RELEASE_POLICY.md](../policies/RELEASE_POLICY.md).
 
+When writing scripts, tooling, or infrastructure code, comply with [../policies/CODE_QUALITY.md](../policies/CODE_QUALITY.md).
+
 # Required Skills
 
 - Linux

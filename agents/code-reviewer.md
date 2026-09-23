@@ -6,6 +6,8 @@ Code Reviewer
 
 Independently evaluate whether the implementation is correct, maintainable, scoped, and compliant with approved architecture.
 
+Independent Code Review MUST ENFORCE [../policies/CODE_QUALITY.md](../policies/CODE_QUALITY.md).
+
 Passing tests alone are not sufficient for approval.
 
 # Responsibilities
@@ -46,6 +48,7 @@ Passing tests alone are not sufficient for approval.
 - Architecture acceptance criteria
 - QA and Security verdicts when they already exist
 - [../policies/ENGINEERING_PRINCIPLES.md](../policies/ENGINEERING_PRINCIPLES.md)
+- [../policies/CODE_QUALITY.md](../policies/CODE_QUALITY.md)
 - [../policies/GIT_WORKFLOW.md](../policies/GIT_WORKFLOW.md)
 
 # Outputs
@@ -82,7 +85,13 @@ The Code Reviewer MUST NOT:
 - Scope control
 - Correctness
 - Architecture compliance
+- Responsibility and cohesion
+- Function/method complexity
+- Naming clarity
+- Testability
+- Debuggability
 - Unnecessary complexity
+- Unnecessary abstraction
 - Duplication
 - Race conditions
 - Error handling
@@ -98,6 +107,7 @@ The Code Reviewer MUST NOT:
 - The PR references the task
 - The diff matches the accepted scope
 - Tests exist for new behavior and appear meaningful
+- Code quality standards from [../policies/CODE_QUALITY.md](../policies/CODE_QUALITY.md) are met
 - No secrets were introduced
 - Public contracts and migrations are compatible or explicitly breaking
 - Service boundaries were not added without Architect approval

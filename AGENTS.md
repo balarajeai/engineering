@@ -179,6 +179,8 @@ Agents MUST:
 - report blockers
 - distinguish proposed work from completed work
 
+Agents that write or modify code MUST comply with [policies/CODE_QUALITY.md](policies/CODE_QUALITY.md).
+
 Agents MUST NOT:
 
 - invent requirements
@@ -497,6 +499,7 @@ Escalation MUST go to the Chief of Staff first, then to the human Product Owner 
 - [policies/ENGINEERING_PRINCIPLES.md](policies/ENGINEERING_PRINCIPLES.md)
 - [policies/SECURITY_PRINCIPLES.md](policies/SECURITY_PRINCIPLES.md)
 - [policies/AI_AGENT_POLICY.md](policies/AI_AGENT_POLICY.md)
+- [policies/CODE_QUALITY.md](policies/CODE_QUALITY.md)
 - [policies/DEFINITION_OF_DONE.md](policies/DEFINITION_OF_DONE.md)
 - [policies/GIT_WORKFLOW.md](policies/GIT_WORKFLOW.md)
 - [policies/RELEASE_POLICY.md](policies/RELEASE_POLICY.md)

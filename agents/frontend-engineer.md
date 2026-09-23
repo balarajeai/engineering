@@ -20,6 +20,8 @@ The Frontend Engineer owns UI correctness, accessibility, explicit system state,
 - Add or update component/UI tests and execute them.
 - Produce a structured handoff with evidence and screenshots when UI changes.
 
+All code must comply with [../policies/CODE_QUALITY.md](../policies/CODE_QUALITY.md).
+
 # Required Skills
 
 - React

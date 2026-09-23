@@ -124,6 +124,7 @@ If two documents conflict, agents MUST escalate rather than silently choosing th
 - [Engineering Principles](policies/ENGINEERING_PRINCIPLES.md)
 - [Security Principles](policies/SECURITY_PRINCIPLES.md)
 - [AI Agent Policy](policies/AI_AGENT_POLICY.md)
+- [Code Quality](policies/CODE_QUALITY.md)
 - [Definition of Done](policies/DEFINITION_OF_DONE.md)
 - [Git Workflow](policies/GIT_WORKFLOW.md)
 - [Release Policy](policies/RELEASE_POLICY.md)

@@ -17,6 +17,7 @@ Use this skill for every meaningful pull request. Lightweight review is allowed 
 - Architecture acceptance criteria when architecture was required
 - Test evidence
 - QA and Security verdicts when those gates already ran
+- [../../policies/CODE_QUALITY.md](../../policies/CODE_QUALITY.md)
 
 # Preconditions
 
@@ -32,6 +33,7 @@ Review against:
 - architecture
 - correctness
 - maintainability
+- [../../policies/CODE_QUALITY.md](../../policies/CODE_QUALITY.md) standards
 - tests
 - security
 - performance
